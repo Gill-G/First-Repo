@@ -16,7 +16,8 @@ tuple = ("Item 1", floats, integers) # its like a list but we cannot change it o
 
 set = {"Item 1", "Item 2", "Item 3"} # also like a list but its not going to maintain its order
 
-dictionary = {          # looks like an object?
+dictionary = { # used to store data as key-value pairs — like a real dictionary, where a word (key) maps to its definition (value).
+    
     "key": "value",
     "key2": "value2",
 }
